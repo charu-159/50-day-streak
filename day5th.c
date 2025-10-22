@@ -8,7 +8,7 @@ int main(){
 for(int i=0;i<n1;i++){
   for(int j=0;j<n2;j++){
     if(arr1[i]==arr2[j]){
-    printf("%d",arr1[i]);
+    printf("%d\n",arr1[i]);
     break;
   }
 }
