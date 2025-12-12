@@ -1,4 +1,4 @@
-//sort of an array of 0s,1s,2s(dutch nationa; flag problem
+//sort of an array of 0s,1s,2s(dutch nationa; flag problem}
 #include <stdio.h>
 
 int main() {
